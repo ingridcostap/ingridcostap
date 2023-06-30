@@ -1,4 +1,4 @@
-## Bem-vindo! Me chamo Ingrid Costa.
+## Bem-vindo! 
 
 - 🌱 Studying Java and Angular
 - 📫 Get in touch: ingridpereirac10@gmail.com
